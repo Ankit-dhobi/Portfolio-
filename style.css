@@ -84,10 +84,16 @@ body{
     background-color: #080808;
     color: #fff;
 }
+.ankit{
+    margin-left: 65%;
+    margin-top: -30%;
+    margin-right: -35%;
+}
+    
+
 #header{
     width: 100%;
-    height: 100vh;
-    /* background-image: url(crop3.png);  */
+    height: 100vh; 
     background-size: cover;
     background-position: center;
 }
@@ -206,4 +212,42 @@ nav ul li a:hover::after{
     grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
     grid-gap: 40px;
     margin-top: 50px;
+}
+ 
+.portfolio h1 span{
+    color: #ff004f;
+}
+
+.para{
+    font-size: 150%;
+}
+.para2{
+    font-size: large;
+    font-weight: bolder;
+    color:
+}
+#personal{
+    color: #ff004f;
+    font-weight: 30px;
+}
+.info span{
+    color: #ff004f;
+}
+#declare{
+    font-weight: 900;
+    font-size: 30px;
+}
+#para3{
+    font-size: 15px;
+}
+header{
+    /* text-align: center; */
+    margin-left: 10%;
+}
+
+a{
+    color: #fff;
+    text-decoration: none;
+    font-size: 18px;
+    position: relative;
 }
